@@ -1,0 +1,5 @@
+{
+  "name": "Photo Pixel Enhance",
+  "description": "Upload a low-quality photo and use AI to enhance it to various resolutions (144p up to 2160p). Compare the original and the enhanced image with an interactive before-and-after slider.",
+  "requestFramePermissions": []
+}
